@@ -1,8 +1,8 @@
 #based on the helpsheet https://www.raspberrypi.org/learning/sense-hat-pong/worksheet/
 
 from time import sleep
-#from sense_hat import SenseHat
-from sense_emu import SenseHat
+from sense_hat import SenseHat
+#from sense_emu import SenseHat
 sense = SenseHat()
 
 y = 4
